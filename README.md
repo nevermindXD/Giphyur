@@ -13,4 +13,8 @@ Feel free to use any or none css-preprocessors or libraries.
 * Create a Pull Request once you've completed the challenge
 * Add instructions to test your code if needed
 
+## Note
+
+If you have any kind of questions, please send an email to the interviewer(s)
+
 Have fun!
