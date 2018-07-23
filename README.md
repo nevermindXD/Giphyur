@@ -7,7 +7,7 @@ The candidate must create an application that looks like Imgur but uses the giph
 
 Feel free to use any or none css-preprocessors or libraries.
 
-#Instructions
+## Instructions
 - Clone the repo
 - Enter de directory "cd Giphy"
 - Install dependencies "npm i"
@@ -15,7 +15,7 @@ Feel free to use any or none css-preprocessors or libraries.
 - Enter in your favorite browser the following url http://localhost:3001/
 - Watch and fun with incredible gifs
 
-#Dependencies 
+## Dependencies 
 - styled-components
 - prop-types 
 - redux
